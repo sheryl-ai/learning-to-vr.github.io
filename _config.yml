@@ -1,1 +1,2 @@
+exclude: ['Gemfile', 'Gemfile.lock', 'variables.scss', 'rouge-github.scss', 'normalize.scss', 'jekyll-theme-cayman.gemspec', 'README.md']
 theme: jekyll-theme-cayman
